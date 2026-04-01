@@ -1,3 +1,8 @@
+# E-commerce Sales Data Analysis
+# Author: Nitesh Kumar
+# Description: Data cleaning, analysis, and visualization project
+
+
 import matplotlib.pyplot as plt
 import pandas as pd
 
